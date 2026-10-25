@@ -1,2 +1,2 @@
-# my-first-progekt
-пожелания
+# my-first-projekt
+# Пожелания от Оли на каждый день!
